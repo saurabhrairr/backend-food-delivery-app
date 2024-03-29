@@ -1,4 +1,4 @@
-// controllers/pricingController.js
+
 const Joi = require("joi");
 const Pricing = require("../models/Pricing");
 
